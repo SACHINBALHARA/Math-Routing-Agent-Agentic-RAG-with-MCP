@@ -1,0 +1,24 @@
+{
+    "examples": [
+        {
+            "question": "Solve the equation: 2x + 3 = 11",
+            "solution": "Let's solve this step by step:\n1. Subtract 3 from both sides: 2x = 8\n2. Divide both sides by 2: x = 4\nTherefore, x = 4",
+            "context": "To solve linear equations like 2x + 3 = 11, isolate x by performing inverse operations. First subtract any constants, then divide by the coefficient of x."
+        },
+        {
+            "question": "Solve: 3x - 6 = 9",
+            "solution": "Step by step solution:\n1. Add 6 to both sides: 3x = 15\n2. Divide both sides by 3: x = 5\nTherefore, x = 5",
+            "context": "For equations in the form ax + b = c, first add/subtract to isolate the term with x, then divide by its coefficient."
+        },
+        {
+            "question": "Find x in the equation: x/2 + 4 = 7",
+            "solution": "Let's solve:\n1. Subtract 4 from both sides: x/2 = 3\n2. Multiply both sides by 2: x = 6\nTherefore, x = 6",
+            "context": "When solving equations with fractions, first isolate the fraction term, then multiply both sides by the denominator to eliminate the fraction."
+        },
+        {
+            "question": "What is the value of x in: 5x = 25",
+            "solution": "Simply divide both sides by 5:\n5x = 25\nx = 25/5\nx = 5",
+            "context": "For simple equations like 5x = 25, divide both sides by the coefficient of x to find the solution."
+        }
+    ]
+}

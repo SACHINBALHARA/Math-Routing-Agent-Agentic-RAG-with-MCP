@@ -1,0 +1,16 @@
+{
+    "test_queries": [
+        {
+            "question": "Integrate x * e^x dx",
+            "expected_steps": true
+        },
+        {
+            "question": "Solve the quadratic equation x^2 - 5x + 6 = 0",
+            "expected_steps": true
+        },
+        {
+            "question": "Find the derivative of ln(x^2 + 1)",
+            "expected_steps": true
+        }
+    ]
+}

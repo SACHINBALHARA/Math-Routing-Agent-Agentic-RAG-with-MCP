@@ -1,0 +1,27 @@
+# Core ML dependencies
+torch>=2.0.0
+transformers>=4.34.0
+sentence-transformers>=2.2.2
+faiss-cpu>=1.7.4  # Use faiss-gpu for GPU support
+datasets>=2.14.0
+
+# Math and scientific computing
+sympy>=1.12
+numpy>=1.24.0
+
+# Deep learning models
+accelerate>=0.23.0  # For faster model loading
+safetensors>=0.4.0  # For efficient model loading
+
+# Data processing
+jsonlines>=4.0.0
+regex>=2023.8.8
+tqdm>=4.66.1
+
+# Testing
+pytest>=7.4.0
+pytest-cov>=4.1.0  # For coverage reports
+Flask>=2.0
+
+# Environment variables
+python-dotenv>=1.0.0
